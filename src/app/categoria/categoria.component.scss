@@ -1,0 +1,29 @@
+.container{
+    text-align: center;
+    font-size:14px;
+    font-weight: bold;
+    color: #c57474d7;
+}
+
+.titulo{
+    font-size: 32px;
+    font-family: sans-serif;
+}
+
+.categorias{
+    list-style-type: none;
+
+    li{
+        margin-left:400px;
+        width: 350px;
+        padding: .2em;
+        background: rgba(212, 209, 209, 0.26);
+        margin-bottom: 3px;
+        color: black;
+        cursor: pointer;
+    }
+
+    li:hover{
+        color: red;
+    }
+}

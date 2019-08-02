@@ -1,0 +1,23 @@
+input{
+    margin-left: 5px;
+    width: 150px;
+    border-radius: 2px;
+    border: 0.5px solid;
+}
+
+.box{
+    margin-left:450px;
+    width: 330px;
+    padding: 10px;
+    border: 2px solid;
+    border-radius: 5px;
+    border-color: #8f4d4d;
+    button{
+        width: 160px;
+        height: 25px;
+        background: #c57474d7;
+        color: white;
+        font-size: 14px;
+        border-radius: 7px;
+    }
+}
